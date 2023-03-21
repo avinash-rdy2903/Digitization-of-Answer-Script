@@ -1,0 +1,5 @@
+1)
+The CIA triad has the goods of
+con fedentiality, C integrity and availability
+which are basic factor S in information
+security

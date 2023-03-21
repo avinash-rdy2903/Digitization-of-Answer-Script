@@ -1,0 +1,39 @@
+11)
+Security model in CIA:-
+The standard is based on three
+charecterstics that describe the utility of
+information,
+(i) Confidentiality
+(ii) In tegrity
+(iii) Availability
+Con fidentiality:-
+* A system's ability to ensure that only
+the correct authorized user/system can
+view, access, change (Ga) otherwise user
+data
+Confidentiality is breached when on unauthorized
+person can view, take E change files.
+It is significant because your company
+wants to protect its competitive edge.
+Integrating
+* A- system's ability to ansure that the
+system & information is accurate E correct
+*
+When Securing any information system,
+integrity is one function that you are
+trying to protect.
+You don't wont human error to, on
+purpose (oa) accidentally ruin the integorty
+of your system E their reso results.
+Avaidability;
+* A systems ability to ensure that system
+information E service are available the
+majority of time.
+*
+It means that the night people have access
+to your information systems.
+*
+If is a large issue in security becaus G
+it can be attacked an attack on your
+availability could limit user access to
+some car) all of your services.
